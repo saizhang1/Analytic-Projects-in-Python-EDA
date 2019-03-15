@@ -49,3 +49,10 @@ practice how to wrangle the massive complex dataset by **Gathering data**, **Acc
 >The goal of this project is find the people who are most possible to become a donor for Charity ML by looking at all the features of each person. All the people are labled, so we can use supervised learning theory to complete this project. Train, test and validate the data, finally the result will tell us what are the features which can influence on the people´decision to become a donor.
 
 
+## What you can do with my projects?
+
+You can feel free to comment on my projects, find the bugs or tell me what your thoughts about my coding, analysis and insight. You can contact with me through my email: saizhang123@gmail.com. I will love to hear your ideas.
+You can also take some codes away if you think some of them can be useful for your projects.
+
+(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3g8ueo4ThAhWMh7QKHQViAVYQjRx6BAgBEAU&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fexcited-luck-good-bXBU98jCBvMNa&psig=AOvVaw399LWuNR09QSCFsOBRM8vW&ust=1552743706174844)
+
