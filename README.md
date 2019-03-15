@@ -34,7 +34,7 @@ practice how to wrangle the massive complex dataset by **Gathering data**, **Acc
 
 **IMDB movie review score**
 
->This project is very close to our real life, I used the dataset from IMDB movie, try to see the historical data. Bring in these questions in my analsysis: Which genres are most popular from year to year? What kinds of properties are associated with movies that have high revenues? Does higher budget films receive higher revenue? Or does the higher voted score films have the higher revenue?
+>This project is very close to our real life, I used the dataset from `IMDB movie`, try to see the historical data. Bring in these questions in my analsysis: Which genres are most popular from year to year? What kinds of properties are associated with movies that have high revenues? Does higher budget films receive higher revenue? Or does the higher voted score films have the higher revenue?
 
 - Unsupervised Learning
 
