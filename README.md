@@ -9,11 +9,11 @@ and help each other to improve the coding skills. I put some analytic projects t
 to see how people put their opinion on it and also you can feel free to take some of my codes as the reference in your works.
 
 ## What projects are in this repository?
-- AB Test
+- ###AB Test
 
 
-**This project is aim at understanding the results of an A/B test run by an e-commerce website, and help the company understand if 
+>This project is aim at understanding the results of an A/B test run by an e-commerce website, and help the company understand if 
 they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decisionby.
-To complete this project, I need to have some basic understanding of `hypothese H0`, `hypothese H1`and `probability`.**
+To complete this project, I need to have some basic understanding of `hypothese H0`, `hypothese H1`and `probability`.
 
 
