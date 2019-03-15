@@ -54,5 +54,5 @@ practice how to wrangle the massive complex dataset by **Gathering data**, **Acc
 You can feel free to comment on my projects, find the bugs or tell me what your thoughts about my coding, analysis and insight. You can contact with me through my email: saizhang123@gmail.com. I will love to hear your ideas.
 You can also take some codes away if you think some of them can be useful for your projects.
 
-(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3g8ueo4ThAhWMh7QKHQViAVYQjRx6BAgBEAU&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fexcited-luck-good-bXBU98jCBvMNa&psig=AOvVaw399LWuNR09QSCFsOBRM8vW&ust=1552743706174844)
+![goodluck] (https://i.chzbgr.com/full/6669971968/h4410CE92/)
 
