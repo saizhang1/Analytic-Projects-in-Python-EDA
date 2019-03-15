@@ -30,6 +30,22 @@ practice how to wrangle the massive complex dataset by **Gathering data**, **Acc
 
 >As the name of this project, I am using the deep learning knowledge to create a APP to be able to classify the different image. The dataset I used is the famous `iris`flowers dataset which contains 102 flower categories. I needed to train the data, create a model to be able to predict what flower is it when the a random flower image shows up.
 
+- Movie Data Analysis
 
+**IMDB movie review score**
+
+>This project is very close to our real life, I used the dataset from IMDB movie, try to see the historical data. Bring in these questions in my analsysis: Which genres are most popular from year to year? What kinds of properties are associated with movies that have high revenues? Does higher budget films receive higher revenue? Or does the higher voted score films have the higher revenue?**
+
+- Unsupervised Learning
+
+**Identify customer segments for a mail-order sales company in Germany**
+
+>I have used 2 large demographics data for this project. By applying the unsupervised learning knowledge, training the unlabeled customer segement data. Finding out which segements have the most revenue or return for the company. By defining the best customer segments, it can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
+
+- Supervised Learning
+
+**Finding Donors for CharityML**
+
+>The goal of this project is find the people who are most possible to become a donor for Charity ML by looking at all the features of each person. All the people are labled, so we can use supervised learning theory to complete this project. Train, test and validate the data, finally the result will tell us what are the features which can influence on the people´decision to become a donor.
 
 
