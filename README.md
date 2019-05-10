@@ -24,11 +24,6 @@ To complete this project, I need to have some basic understanding of `hypothese 
 >I used 3 datasets from Twitter related to the account `Weratedog` to complete this project. The main goal for this project is to
 practice how to wrangle the massive complex dataset by **Gathering data**, **Accessing data**, **Cleaning data**, **Analyzing data**, **Visualizing data**. Also you can see some very interesting findings in the end of my analysis.
 
-- Deep Learning 
-
-**Flower Image Classifier**
-
->As the name of this project, I am using the deep learning knowledge to create a APP to be able to classify the different image. The dataset I used is the famous `iris`flowers dataset which contains 102 flower categories. I needed to train the data, create a model to be able to predict what flower is it when the a random flower image shows up.
 
 - Movie Data Analysis
 
