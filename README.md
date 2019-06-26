@@ -9,13 +9,6 @@ and help each other to improve the coding skills. I put some analytic projects t
 to see how people put their opinion on it and also you can feel free to take some of my codes as the reference in your works.
 
 ## What projects are in this repository?
-- AB Test 
-
-**E-commerce website A/B testing**
-
->This project is aim at understanding the results of an A/B test run by an e-commerce website, and help the company understand if 
-they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decisionby.
-To complete this project, I need to have some basic understanding of `hypothese H0`, `hypothese H1`and `probability`.
 
 - Data Wrangling 
 
@@ -30,6 +23,12 @@ practice how to wrangle the massive complex dataset by **Gathering data**, **Acc
 **IMDB movie review score**
 
 >This project is very close to our real life, I used the dataset from `IMDB movie`, try to see the historical data. Bring in these questions in my analsysis: Which genres are most popular from year to year? What kinds of properties are associated with movies that have high revenues? Does higher budget films receive higher revenue? Or does the higher voted score films have the higher revenue?
+
+- Mobile Data Analysis
+
+**Car app company**
+
+> There is one data with shape of (23111,28) with a lot of information. What I want to demostrate is how to analyze this kind of data, how should you start to approach the problems, from business side also from techinical side. There are 13 business questions came out from my mind and I need to solve them supporting by the data. Then at end, I will give business recommendations for this company to help them improve their strategy and business.
 
 
 ## What you can do with my projects?
